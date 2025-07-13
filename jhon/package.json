@@ -1,0 +1,12 @@
+{
+  "name": "jhon",
+  "version": "1.0.0",
+  "description": "**Desenvolvido por:** Jhonatan Rota Santana",
+  "main": "jogoDoMilhao.js",
+  "scripts": {
+    "start": "node jogoDoMilhao.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
